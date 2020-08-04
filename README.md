@@ -8,5 +8,5 @@
   Porém nos meus tempos vagos, programo jogos 2D na Unity, sempre tentando aprimorar minhas skills em programação. <br>
   
   :email: entre em contato comigo: <br>
-    - danielshenrique@gmail.com (gmail)<br>
-    - https://www.linkedin.com/in/daniel-henrique-a99740165/ (linkedin)
+      - danielshenrique@gmail.com (gmail)<br>
+      - https://www.linkedin.com/in/daniel-henrique-a99740165/ (linkedin)
