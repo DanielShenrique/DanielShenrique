@@ -10,3 +10,5 @@ Porém nos meus tempos vagos, programo jogos 2D na Unity, sempre tentando aprimo
 Entre em contato comigo:<br>
 - danielshenrique@gmail.com<br>
 - https://www.linkedin.com/in/daniel-henrique-a99740165/
+
+![DanielShenrique's GitHub status](https://github-readme-stats.vercel.app/api?username=DanielShenrique&show_icons=true&theme=nord)
