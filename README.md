@@ -9,7 +9,6 @@ Porém nos meus tempos vagos, programo jogos 2D na Unity, sempre tentando aprimo
 
 <p aling="center">
   <a href="https://www.linkedin.com/in/danielshenrique/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="DanielShenrique" height="25" width="25" /></a>
-  <a href="https://www.linkedin.com/in/danielshenrique/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="DanielShenrique" height="25" width="25" /></a>
 </p>
 
 <br>
