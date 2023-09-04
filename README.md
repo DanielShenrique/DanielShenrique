@@ -4,7 +4,7 @@
 
 Sou Daniel, sou apaixonado por programação e tecnologia. :computer:<br>
   
-Até o momento, estou cursando apenas o ensino superior em ciência da computação, na UniCarioca e também sou estagiário do NUCAP. <br> 
+Até o momento, estou cursando apenas o ensino superior em ciência da computação, na UniCarioca e também sou estagiário do TCERJ. <br> 
 Porém nos meus tempos vagos, programo jogos 2D na Unity, sempre tentando aprimorar minhas skills em programação. <br>
 
 <p aling="center">
